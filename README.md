@@ -1,6 +1,8 @@
 # yamdb_final
 ![workflow](https://github.com/freddy7753/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+![yamdb-url](https://84.201.179.221:8000)
+
 ## API-сервис для публикации отзывов, рейтингов и комментариев к различным произведениям.
 
 ## Технологии
